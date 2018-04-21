@@ -5,7 +5,7 @@ write Pig Latin script to get below results:
 https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_details.txt
 https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_expenses.txt
 
-    (a) Top 5 employees (employee id and employee name) with highest rating. (In case two
+   (a) Top 5 employees (employee id and employee name) with highest rating. (In case two
 employees have same rating, employee with name coming first in dictionary should get
 preference)
     (b) Top 3 employees (employee id and employee name) with highest salary, whose employee id
